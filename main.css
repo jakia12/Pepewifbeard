@@ -7042,3 +7042,22 @@ p {
   text-transform: uppercase;
   text-shadow: 3px 5px 0 #788f0d;
 }
+
+@media screen and (max-width: 768px) {
+  .heading__one {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    outline-color: #788f0d;
+    outline-offset: 0px;
+    outline-style: none;
+    outline-width: 3px;
+    font-family: "Gulfsdisplay expanded", sans-serif;
+    color: white;
+    font-size: 2em;
+    line-height: 0.9em;
+    text-align: center;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    text-shadow: 3px 5px 0 #788f0d;
+  }
+}
